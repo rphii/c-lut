@@ -7,7 +7,7 @@
 ## Installation
 
 ```
-./install.sh
+PREFIX=/usr ./install.sh
 ```
 
 ## Platforms
