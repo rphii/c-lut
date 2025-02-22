@@ -1,0 +1,8 @@
+prefix=/usr
+includedir=${prefix}/include
+
+Name: c-lut
+Description: C lookup table header
+Cflags: -I${includedir}/rphii
+Version: 9999
+
